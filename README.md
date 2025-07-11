@@ -1,7 +1,7 @@
 ## AI-Future-Directions
 
 
-###**Understanding Emerging AI Trends Project-Pioneering Tomorrow’s AI Innovations**
+###**Understanding Emerging AI Trends Project-Pioneering Tomorrow’s AI Innovations**###
 
 #**Project Overview**
 
